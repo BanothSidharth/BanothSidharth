@@ -52,9 +52,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=banothsidharth&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=banothsidharth&layout=compact&theme=tokyonight" />
-</p>
